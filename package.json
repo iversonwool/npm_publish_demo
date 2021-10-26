@@ -1,8 +1,9 @@
 {
-  "name": "hello-npm",
+  "name": "hello-npm-lee-klaus",
   "version": "1.0.0",
   "description": "first published lib",
   "main": "lib/index.js",
+  "maintainers": ["lee_klaus"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --config config/webpack.dev.config.js",
@@ -16,7 +17,7 @@
   "keywords": [
     "hello npm"
   ],
-  "author": "leeklaus",
+  "author": "lee_klaus",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/iversonwool/npm_publish_demo/issues"
